@@ -1,0 +1,6 @@
+* MongoDB 설치 및 구축하기
+
+1. https://www.mongodb.com/try/download/community : MongoDB Community Server 다운로드
+2. 시스템 환경변수 설정
+3. MongoDB Compass 설치
+- Server와 함께 설치 가능.

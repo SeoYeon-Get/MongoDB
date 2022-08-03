@@ -1,3 +1,6 @@
 * MongoDB와 python 연동하기
 
 - python 과 MongoDB 연동 : 모듈 import 하기
+
+  from pymongo import MongoClient #python 과 MongoDB 연동 : 모듈 import 하기
+  client = MongoClient("mongodb://localhost:27017/") // DB 연결
